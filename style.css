@@ -1,0 +1,16 @@
+body {background-color:  black;
+
+    font-size: 15pt;
+}
+p{
+  color: navajowhite;
+}
+h1{
+  color: skyblue;
+}
+  
+h2{
+  color :yellow;
+  size :6pixel;
+  font-weight: bold;
+}
